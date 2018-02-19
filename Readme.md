@@ -3,6 +3,7 @@
 ## Introduction
 
 This paper discusses How to collaberate using GIT
+Among other things this will impact ...
 
 ## Background
 
