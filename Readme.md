@@ -1,4 +1,4 @@
-# The wonders of macro economics in a Brexit climate
+# The horrors of macro economics in a Brexit climate
 
 ## Introduction
 
