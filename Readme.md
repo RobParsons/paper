@@ -11,7 +11,8 @@ was going to be a great success but in reality...
 
 ## Conclusion
 
-This was an examination of the wonders of macro economics in a Brexit climate
+This was an examination of the wonders of macro economics in a Brexit climate.
+more conclusions.
 
 ## The end???
 
