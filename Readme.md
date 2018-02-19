@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This paper discusses ...
+This paper discusses How to collaberate using GIT
 
 ## Background
 
